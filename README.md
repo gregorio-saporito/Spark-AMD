@@ -1,4 +1,4 @@
-# Spark-AMD
+# Spark-AMD <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="50"/>
 
 The aim of this project is to identify a scalable solution to detect pairs of similar items in a corpus of documents. The solution is implemented in Spark 3.1.1 and it is designed to scale with large datasets.
 
